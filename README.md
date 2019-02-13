@@ -9,6 +9,11 @@
 
 * https://github.com/danday74/docker-nginx-lua
 
+### 版本
+
+* ubuntu : 16.04
+* nginx : 1.10.3
+
 ### 用法
 
 修改 `proxy_test.conf` 内容，加上自己的serivce
