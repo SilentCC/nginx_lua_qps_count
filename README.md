@@ -16,7 +16,7 @@
 
 ### 用法
 
-修改 `proxy_test.conf` 内容，加上自己的serivce
+根据需求修改 `proxy_test.conf` 内容
 
 在项目文件夹下执行
 ```
